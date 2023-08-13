@@ -1,0 +1,5 @@
+﻿  systemManager.cpp
+C:\Users\zizhong\Desktop\图书管理系统\图书管理系统\图书管理系统1.0\systemManager.cpp(85,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  图书管理main.cpp
+  正在生成代码...
+  图书管理系统1.0.vcxproj -> C:\Users\zizhong\Desktop\图书管理系统\图书管理系统\x64\Debug\图书管理系统1.0.exe
